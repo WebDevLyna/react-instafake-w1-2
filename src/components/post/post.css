@@ -1,4 +1,18 @@
-img.postImg {
-  width: 500px;
+.post {
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.post__header,
+.post__comment {
+  padding: 15px 20px;
+}
+
+.post__img {
+  width: 100%;
   height: auto;
+}
+
+.post__comment {
+
 }
