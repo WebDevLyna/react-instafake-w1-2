@@ -13,6 +13,14 @@
   height: auto;
 }
 
-.post__comment {
+.post__comment {}
 
+.post__header {
+
+}
+.post__profile-img {
+  margin: 0 10px;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
 }
